@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Final-year **Computer Science & Engineering** student at *Prof. Ram Meghe College of Engineering and Management*  
+- 🎓 **Computer Science & Engineering** Graduate from *Prof. Ram Meghe College of Engineering and Management*  
 - 💡 Interested in **Data Science, Machine Learning, AI & Full-Stack Development**  
 - ✍️ Writing tech blogs on [Medium](https://medium.com/@CodewithSugran)  
 - 🌱 Currently learning **Power BI | Advanced ML | NLP**  
@@ -25,9 +25,9 @@
 ---
 
 ## 🛠️ Skills
-- **Languages:** Python, C/C++, SQL, Java (Basic)  
+- **Languages:** Python, SQL, Java (Basic)  
 - **ML & Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, EDA, ML Models  
-- **Backend & Databases:** MySQL, Firebase, Flask, REST APIs  
+- **Backend & Databases:** MySQL, Firebase, Flask, REST APIs, Streamlit  
 - **Tools & Platforms:** Jupyter Notebook, Power BI, Git, GitHub, HTML/CSS  
 
 ---
